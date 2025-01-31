@@ -1,0 +1,4 @@
+repository "MMA-Fighting-2@Niknemfay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
